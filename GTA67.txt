@@ -1,0 +1,4 @@
+play 
+cj persobagem 
+ak47 roubar 
+shoes store
