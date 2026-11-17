@@ -1,2 +1,0 @@
-# LuisFernando67resenhudo
-# Arthur
